@@ -1,0 +1,15 @@
+C:\Users\Rhaissa Tardin\Desktop\Weather\bin\Debug\net6.0\Weather.exe
+C:\Users\Rhaissa Tardin\Desktop\Weather\bin\Debug\net6.0\Weather.deps.json
+C:\Users\Rhaissa Tardin\Desktop\Weather\bin\Debug\net6.0\Weather.runtimeconfig.json
+C:\Users\Rhaissa Tardin\Desktop\Weather\bin\Debug\net6.0\Weather.dll
+C:\Users\Rhaissa Tardin\Desktop\Weather\bin\Debug\net6.0\Weather.pdb
+C:\Users\Rhaissa Tardin\Desktop\Weather\obj\Debug\net6.0\Weather.csproj.AssemblyReference.cache
+C:\Users\Rhaissa Tardin\Desktop\Weather\obj\Debug\net6.0\Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhaissa Tardin\Desktop\Weather\obj\Debug\net6.0\Weather.AssemblyInfoInputs.cache
+C:\Users\Rhaissa Tardin\Desktop\Weather\obj\Debug\net6.0\Weather.AssemblyInfo.cs
+C:\Users\Rhaissa Tardin\Desktop\Weather\obj\Debug\net6.0\Weather.csproj.CoreCompileInputs.cache
+C:\Users\Rhaissa Tardin\Desktop\Weather\obj\Debug\net6.0\Weather.dll
+C:\Users\Rhaissa Tardin\Desktop\Weather\obj\Debug\net6.0\refint\Weather.dll
+C:\Users\Rhaissa Tardin\Desktop\Weather\obj\Debug\net6.0\Weather.pdb
+C:\Users\Rhaissa Tardin\Desktop\Weather\obj\Debug\net6.0\Weather.genruntimeconfig.cache
+C:\Users\Rhaissa Tardin\Desktop\Weather\obj\Debug\net6.0\ref\Weather.dll
